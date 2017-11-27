@@ -1,0 +1,14 @@
+|
+|-layout
+| |-->css.css
+| |-->pagina_inicial.php
+|  \_
+|-programacao
+| |-->recebe_dados.php
+| |-->trata_dados.php
+| |-->retorna_dados.php
+|  \_
+|-funcoes
+| |-->funcoes.php
+|  \_
+ \_

@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* sge CSS */
+
+.quadrado{
+		border-style: solid;
+		border-color: #F00004;
+		background-color: #F6F9F9;
+		width: 150px;
+		height: 150px;
+		text-align: center;
+		display: inline-block;
+		margin-bottom: 5px;
+	}
+
